@@ -1,0 +1,2 @@
+2025-02-19 00:54:49,398 - ERROR - Error scraping bills: 403 Client Error: Forbidden for url: https://www.congress.gov/browse/bills-118th-congress/all
+2025-02-19 00:54:49,401 - INFO - Successfully saved 0 bills to congress_bills.csv
